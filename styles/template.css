@@ -38,4 +38,8 @@ right: 114px;
     border-top: solid 1px saddlebrown;
     color: white;
 }
-
+ .p {
+     color: saddlebrown;
+     font-size: medium;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+ }
