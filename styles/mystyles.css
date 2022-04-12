@@ -1,0 +1,24 @@
+.unbold {
+    font-weight: normal;
+}
+.bold {
+    font-weight: bold;
+} 
+li {
+    font-weight: normal;
+    font-style: italic;   
+}
+.copywrite {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: saddlebrown;
+    font-size: 10px;
+    text-align: center;
+}
+.center {
+    text-align: center;
+}
+a :hover :visited {
+    color: white;
+    font-style: normal;
+    text-decoration: underline;
+}
